@@ -573,24 +573,10 @@ try {
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 📞 Support & Contact
-
-For issues, questions, or suggestions:
-- **Email:** support@campusflow.com
-- **GitHub Issues:** [Report a bug](https://github.com/VishalGhuge111/CampusFlow-Frontend/issues)
-- **Live Demo:** https://campus-flow-y7z3.vercel.app
-
----
 
 ## 🎉 Acknowledgments
 
-Built with ❤️ by the CampusFlow Team
+Built with ❤️ ME
 - React community
 - Tailwind CSS team
 - Vite development team
